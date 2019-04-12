@@ -39,4 +39,4 @@ The project represents an alpha version of a spaceship.
 
 Something Extra
 
-Changes on B
+Changes on A
